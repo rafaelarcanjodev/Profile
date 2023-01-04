@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafarcanjoatos
 - 👀 I’m interested in Analysis and systems development
 - 🌱 I’m currently learning Javascript POO
-- 💞️ I’m looking to collaborate on Small projects
+- 💞️ I’m looking to collaborate on medium projects
 - 📫 How to reach me rafarcanjoatos@gmail.com
 
 <!---
