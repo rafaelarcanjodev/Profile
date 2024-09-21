@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafarcanjoatos
 - 👀 I’m interested in Analysis and systems development
-- 🌱 I’m currently estuding Java and React Js
+- 🌱 I’m currently estuding Dart / Flutter
 - 💞️ I’m looking to collaborate on medium projects
 - 📫 How to reach me rafarcanjoatos@gmail.com
 
